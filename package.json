@@ -10,17 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2023-spring/a01-maddrings.git"
   },
-  "keywords": [
-    "web",
-    "server",
-    "port",
-    "node",
-    "fs",
-    "args",
-    "http"
-  ],
   "author": "maddrings",
-  "license": "GPL-3.0-or-later",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a01-maddrings/issues"
   },
