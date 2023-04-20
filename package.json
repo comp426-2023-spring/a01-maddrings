@@ -1,11 +1,10 @@
 {
   "name": "my-first-webserver",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This package contains a very simple web server that takes one argument for port and then serves any files inside the public directory.",
   "main": "server.js",
   "scripts": {
     "test": "node server.js --port=5555",
-    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +19,7 @@
     "args",
     "http"
   ],
-  "author": "@maddrings",
+  "author": "maddrings",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a01-maddrings/issues"
